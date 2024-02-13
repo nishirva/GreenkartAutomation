@@ -3,6 +3,8 @@
 **Introduction:**
 GreenKart is a demonstration website commonly used for automation testing purposes. It features a dashboard, top deals section, flight booking functionality, and allows users to browse items. Users can add items to their cart and adjust quantities accordingly.
 (https://rahulshettyacademy.com/seleniumPractise/#/)
+
+
 **Objective:**
 This project aims to automate various functionalities of the GreenKart website using Selenium WebDriver and Cucumber framework. The automation script covers scenarios for browsing items, adding them to the cart, and modifying quantities.
 
